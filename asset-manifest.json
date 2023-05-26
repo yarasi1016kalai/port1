@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio-1/static/css/main.8048823f.css",
+    "main.js": "/Portfolio-1/static/js/main.702ac241.js",
+    "static/media/calculatorproject.png": "/Portfolio-1/static/media/calculatorproject.efef2454e43d6ae1a404.png",
+    "static/media/homeImage.png": "/Portfolio-1/static/media/homeImage.482462848a5b6993391b.png",
+    "static/media/MongoAbout.png": "/Portfolio-1/static/media/MongoAbout.ac47c497a10891dc7bed.png",
+    "index.html": "/Portfolio-1/index.html",
+    "main.8048823f.css.map": "/Portfolio-1/static/css/main.8048823f.css.map",
+    "main.702ac241.js.map": "/Portfolio-1/static/js/main.702ac241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8048823f.css",
+    "static/js/main.702ac241.js"
+  ]
+}
